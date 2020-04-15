@@ -14,6 +14,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (void)sayHaHa;
 
++ (void)lala;
+
 @end
 
 NS_ASSUME_NONNULL_END

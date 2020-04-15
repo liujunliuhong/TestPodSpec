@@ -12,4 +12,8 @@
 - (void)sayHaHa{
     NSLog(@"12345");
 }
+
++ (void)lala{
+    NSLog(@"lala");
+}
 @end
